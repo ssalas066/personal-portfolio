@@ -1,7 +1,8 @@
 import React from 'react';
 import Image from "next/image";
 import Link from "next/link";
-import { AiOutlineMenu } from "react-icons/all";
+import {AiOutlineMenu} from "react-icons/all";
+// import {AiOutlineMenu} from "react-icons/all";
 
 const Navbar = () => {
     return (
@@ -28,7 +29,7 @@ const Navbar = () => {
                             </Link>
                         </ul>
                         <div>
-                            {/*<AiOutlineMenu />*/}
+                            <AiOutlineMenu />
                         </div>
                     </div>
                 </div>
