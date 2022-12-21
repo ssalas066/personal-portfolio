@@ -1,2 +1,2 @@
 # personal-portfolio
-portfolio of developer growth
+Devoper portfolio using Next.js
